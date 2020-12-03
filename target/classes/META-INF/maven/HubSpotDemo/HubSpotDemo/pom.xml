@@ -53,7 +53,12 @@
     <artifactId>poi-scratchpad</artifactId>
     <version>4.1.2</version>
 </dependency>
-
+<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+<dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.1</version>
+</dependency>
 
   </dependencies>
 </project>
